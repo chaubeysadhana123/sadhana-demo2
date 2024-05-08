@@ -1,4 +1,4 @@
 # sadhana-demo2
 this is my second repository
 <br>
-Author-SANDY
+Author-SANDY demo 2
